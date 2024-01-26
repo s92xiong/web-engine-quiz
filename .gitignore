@@ -1,0 +1,17 @@
+# course config files
+*.yaml
+
+# gradle
+.gradle/
+build
+
+
+# idea config
+.idea
+
+# old stages
+/Web Quiz Engine (Java)/*
+!/Web Quiz Engine (Java)/task/
+/Web Quiz Engine (Java)/task/*
+!/Web Quiz Engine (Java)/task/src
+!/Web Quiz Engine (Java)/task/build.gradle
